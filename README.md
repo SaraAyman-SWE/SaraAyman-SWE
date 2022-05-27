@@ -5,7 +5,7 @@
   
 
 <div align="center">
-<img src="https://octodex.github.com/images/inspectocat.jpg" align="center" style="width: 100%" />
+<img src="https://octodex.github.com/images/inspectocat.jpg" align="center" height="200" width="" />
 </div>  
   
 
