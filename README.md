@@ -25,7 +25,7 @@ I'm a Software Engineer and .NET Full Stack Development Trainee at ITI, passiona
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -40,7 +40,7 @@ I'm a Software Engineer and .NET Full Stack Development Trainee at ITI, passiona
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -54,10 +54,6 @@ I'm a Software Engineer and .NET Full Stack Development Trainee at ITI, passiona
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
