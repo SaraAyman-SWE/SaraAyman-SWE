@@ -8,6 +8,7 @@
 <img src="https://octodex.github.com/images/inspectocat.jpg" align="center" height="200" width="" />
 </div>  
   
+<br/>
 
 I'm a Software Engineer and .NET Full Stack Development Trainee at ITI, passionate in web development, problem solving. I love to learn new things and read about new technologies. I'm highly motivated, disciplined and a fast learner.  
   
@@ -76,6 +77,3 @@ I'm a Software Engineer and .NET Full Stack Development Trainee at ITI, passiona
 ![Profile views counter](https://komarev.com/ghpvc/?username=Saraayman20&&style=flat-square)  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
