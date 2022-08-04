@@ -16,7 +16,7 @@ I'm a Software Engineer and .NET Full Stack Development Trainee at ITI, passiona
 - 🌱 I’m currently learning to build a web application using ASPNET Core, Entity Framework Core and Angular  
   
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KH5wiKDPQikhM-Se18F47HrAqeMMAAw1/view?usp=sharing)  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p9AaXKsjpuzzugrkasvjAhx0GZJBAxk0/view?usp=sharing)  
   
 
 - 📫 How to reach me saraayman20@gmail.com  
